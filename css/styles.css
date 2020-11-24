@@ -113,7 +113,7 @@ body{
 }
 
 #servicios{
-	height: 500px;
+	height: 450px;
 	width: 100%;
 	background-size: 100% 100%;
 	text-align: center;
@@ -134,7 +134,7 @@ body{
 	width: 25%;
 	text-align: center;
 	padding-top: 3%;
-	padding-left: 38%;
+	padding-left: 6%;
 	padding-right: 0%;
 	display: block;
 	float: left;
