@@ -58,7 +58,7 @@ body{
 }
 
 #cabecera img{
-	height: 120px;
+	height: 220px;
 	margin-top: 75px;
 	margin-left: 45px;
 }
@@ -113,7 +113,7 @@ body{
 }
 
 #servicios{
-	height: 450px;
+	height: 500px;
 	width: 100%;
 	background-size: 100% 100%;
 	text-align: center;
@@ -134,14 +134,14 @@ body{
 	width: 25%;
 	text-align: center;
 	padding-top: 3%;
-	padding-left: 6%;
+	padding-left: 38%;
 	padding-right: 0%;
 	display: block;
 	float: left;
 }
 
 #galeria{
-	height: 550px;
+	height: 650px;
 	width: 100%;
 	background-size: 100% 100%;
 	text-align: center;
